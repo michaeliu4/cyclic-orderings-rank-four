@@ -1,6 +1,6 @@
 # Cyclic orderings of uniformly dense rank-four matroids
 
-Exact finite proof files for the paper *Cyclic orderings of uniformly dense rank-four matroids*. Release `v1` supplies the three finite inputs used in the V1 manuscript. The mathematical reductions and coverage arguments are in Section 6; Appendix C describes the replay. The theorem concerns rank four and its dual corank-four case.
+Exact finite proof files for the paper *Cyclic orderings of uniformly dense rank-four matroids*. These files supply the three finite inputs used in the V1 manuscript. The mathematical reductions and coverage arguments are in Section 6; Appendix C describes the replay. The theorem concerns rank four and its dual corank-four case.
 
 ## Verification
 
