@@ -1,0 +1,20 @@
+[
+  {
+    "file": "query-old14.cnf",
+    "bytes": 10265353,
+    "sha256": "68dd8dc0f68bcd37a7c7e99871708bdcc46f9b597b07f4b155c4c8b17516864c",
+    "compressed_file": "query-old14.cnf.gz",
+    "compression": "gzip",
+    "compressed_bytes": 2193435,
+    "compressed_sha256": "10fdcccf546a860a37c1becc3373b2d73b7c2fcabbb787f73fab3c6eb206c503"
+  },
+  {
+    "file": "query-old14.drup",
+    "bytes": 76959785,
+    "sha256": "3753e187832b17dd74e573facc345dc39ae5be2e8f1205eac77fd047b999b217",
+    "compressed_file": "query-old14.drup.xz",
+    "compression": "xz",
+    "compressed_bytes": 14492712,
+    "compressed_sha256": "3a55a507c84866a91a0de7c039a0a905742ad5d9b1500dbe5454478b1809edd2"
+  }
+]

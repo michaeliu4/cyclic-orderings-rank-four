@@ -1,0 +1,98 @@
+[
+  {
+    "path": "inputs/basecases/independent_basecase_validator.py",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/independent_basecase_validator.py",
+    "bytes": 4260,
+    "sha256": "cd13ef00a4d8ecbcdb60bec8693c69dc0d74746e41b9656579142c1676fc782e"
+  },
+  {
+    "path": "inputs/basecases/replay_checked_basecases.sh",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/replay_checked_basecases.sh",
+    "bytes": 841,
+    "sha256": "faddb4f111f6bcb8266fbea95636ac02e6793dad2aec86604797f5c0006fa964"
+  },
+  {
+    "path": "inputs/basecases/originals-attempt2/certificates/single_master_10_4.cnf",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/originals-attempt2/certificates/single_master_10_4.cnf",
+    "bytes": 110073,
+    "sha256": "ed10b6edb853d6d754cfd5148869fd4df694208198315c4912c615f9ea4a12ee"
+  },
+  {
+    "path": "inputs/basecases/originals-attempt2/certificates/single_master_10_4.drup",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/originals-attempt2/certificates/single_master_10_4.drup",
+    "bytes": 2568,
+    "sha256": "8e213fa6b6be87924362d5e43e1bbb1e3823a8f45b1ae3287c6ec9061f9f51e1"
+  },
+  {
+    "path": "inputs/basecases/originals-attempt2/certificates/single_master_10_4.just.gz",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/originals-attempt2/certificates/single_master_10_4.just.gz",
+    "bytes": 18375,
+    "sha256": "7ef3794d67f84630e1832c3731829276cea69b36a43a4f99bf5cb75a0c309e9d"
+  },
+  {
+    "path": "inputs/basecases/originals-attempt2/certificates/single_master_14_4.cnf",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/originals-attempt2/certificates/single_master_14_4.cnf",
+    "bytes": 2008088,
+    "sha256": "75ed01e3295f61692ecec6e340abb0a5dd3ec7e32e01ad09a8c6edf57de8f743"
+  },
+  {
+    "path": "inputs/basecases/originals-attempt2/certificates/single_master_14_4.drup",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/originals-attempt2/certificates/single_master_14_4.drup",
+    "bytes": 623566,
+    "sha256": "9dab4990f0addab9b3f51d23fc598f0fe62188f73bee0a91c2a9bdd0ed6d0564"
+  },
+  {
+    "path": "inputs/basecases/originals-attempt2/certificates/single_master_14_4.just.gz",
+    "source": "prior-gcd-two/prior-deficiency-three/prior-maximal-plane/prior-low-deficiency/dependency-deficiency-one/finite-basecases/originals-attempt2/certificates/single_master_14_4.just.gz",
+    "bytes": 310245,
+    "sha256": "8ddc0879ca0b7690ed3dd90992dd138739d83a17bc320e7fa16a9371615b1a62"
+  },
+  {
+    "path": "inputs/old14/replay.sh",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/replay.sh",
+    "bytes": 1040,
+    "sha256": "b897eba7cff6fc111a89e41cd91e59da06075014a6009722a6618c568b55f8db"
+  },
+  {
+    "path": "inputs/old14/prepare_inputs.py",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/prepare_inputs.py",
+    "bytes": 696,
+    "sha256": "d8a3fe362ac1516ed51ff485c7e9bf97c3f0ef562143caadf22cbae4edfe9d9c"
+  },
+  {
+    "path": "inputs/old14/validate_old14_cnf.py",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/validate_old14_cnf.py",
+    "bytes": 2056,
+    "sha256": "6cc35b1b81f4d611e2e6c934d31964201ff7ca79913f6c9a4dca872aa2a53af4"
+  },
+  {
+    "path": "inputs/old14/PLAIN-BYTE-MANIFEST.json",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/PLAIN-BYTE-MANIFEST.json",
+    "bytes": 688,
+    "sha256": "a407bb7480925257df8afe6c86542cb967d09e635d0678c8959d39739f3352cc"
+  },
+  {
+    "path": "inputs/old14/query-old14.cnf.gz",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/query-old14.cnf.gz",
+    "bytes": 2193435,
+    "sha256": "10fdcccf546a860a37c1becc3373b2d73b7c2fcabbb787f73fab3c6eb206c503"
+  },
+  {
+    "path": "inputs/old14/query-old14.drup.xz",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/query-old14.drup.xz",
+    "bytes": 14492712,
+    "sha256": "3a55a507c84866a91a0de7c039a0a905742ad5d9b1500dbe5454478b1809edd2"
+  },
+  {
+    "path": "inputs/checkers/rupcheck.c",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/checkers/rupcheck.c",
+    "bytes": 6228,
+    "sha256": "d92f52b6275272384724457469457c8eb6b506c7359444da257ffd7c0680641e"
+  },
+  {
+    "path": "inputs/checkers/drat-trim.c",
+    "source": "prior-gcd-two/prior-deficiency-three/finite-n18/checkers/drat-trim.c",
+    "bytes": 59546,
+    "sha256": "d834b649f437e091597f5347f259b9f681087f89ca0844d0cee250a1a1a0c2ee"
+  }
+]
